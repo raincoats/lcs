@@ -3,6 +3,7 @@
 !/Makefile
 !/README.md
 !/LICENSE.md
+
 !/subnet.c
-!/Makefile
 !/subnet.h
+!/test.sh
