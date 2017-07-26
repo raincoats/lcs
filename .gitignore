@@ -4,6 +4,6 @@
 !/README.md
 !/LICENSE.md
 
-!/subnet.c
-!/subnet.h
+!/lcs.c
+!/lcs.h
 !/test.sh
